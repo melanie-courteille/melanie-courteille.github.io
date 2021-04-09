@@ -112,7 +112,9 @@ img:hover{
   font-family: "amatic SC";
   cursor: pointer;
   font-size : 23px;
-  text-shadow: 0.2px 0.3px 0.5px #263662
+  text-shadow: 0.2px 0.3px 0.5px #263662;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .bloc-btn{
