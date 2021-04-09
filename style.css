@@ -14,17 +14,19 @@ h1{
 
 h2{
   font-size: 40px;
+  color: #fff089;
 }
 
 h3{
   text-align: center; 
+  color: #fff089;
 }
 
 body{
   margin: 0px;
   font-family: 'roboto';
   font-size: 20px;
-  background-color : #fff089;
+  background-color : #263662;
 }
 
 section, img{
