@@ -37,7 +37,7 @@ section{
   padding: 50px;
 }
 
-.card-p{
+.card-a{
   width: 400px;
   display: flex;
   justify-content: center;
@@ -52,7 +52,7 @@ section{
   flex-wrap: wrap;
 }
 
-.card-p img{
+.card-a img{
   width: 100%;
   object-fit: cover;
   height : 350px;
@@ -79,7 +79,7 @@ section{
   object-fit: cover;
 }
 
-.card3{
+.card-c{
   width: 450px;
   display: flex;
   justify-content: center;
@@ -87,7 +87,7 @@ section{
   margin: 13px;
 }
 
-.card3 img{
+.card-c img{
   width: 100%;
   object-fit: cover;
   height : 350px;
