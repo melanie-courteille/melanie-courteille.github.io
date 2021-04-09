@@ -45,7 +45,7 @@ section{
   margin: 13px;
 }
 
-.card-p-container{
+.card-a-container{
   display: flex;
   justify-content: space-between;
   justify-content : center;
@@ -58,7 +58,7 @@ section{
   height : 350px;
 }
 
-.card2{
+.card-b{
   width: 750px;
   display: flex;
   justify-content: center;
@@ -67,14 +67,14 @@ section{
   margin-bottom: 30px
 }
 
-.card2-container{
+.card-b-container{
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
 }
 
-.card2 img{
+.card-b img{
   width: 100%;
   object-fit: cover;
 }
