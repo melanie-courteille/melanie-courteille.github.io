@@ -11,7 +11,6 @@ h1{
   font-size: 50px;
   color: #263662;
   text-align: center;
-  padding-top: 15px
 }
 
 body{
@@ -26,4 +25,27 @@ body{
   justify-content: center;
   padding: 20px;
   margin: 10px;
+}
+
+.btn{
+  color: #fff089;
+  background-color: #263662;
+  text-decoration: none;
+  padding: 6px 20px;
+  border-radius: 4px;
+  font-family: "roboto";
+  cursor: pointer;
+  font-size : 23px;
+  text-shadow: 0.2px 0.3px 0.5px #263662;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 5px;
+}
+
+.bloc-btn{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 3px;
 }
