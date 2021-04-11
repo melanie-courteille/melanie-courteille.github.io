@@ -1,3 +1,62 @@
+@import url("https://use.typekit.net/amn5wlw.css");
+
+h2{
+  font-family: roboto, sans serif;
+  font-size: 25px;
+  text-align: center;
+}
+
 h1{
-  font-color: blue;
+  font-family: rig-solid-bold-reverse, sans-serif;
+  font-size: 50px;
+  color: #263662;
+  text-align: center;
+}
+
+body{
+  margin: 0px;
+  font-family: 'roboto';
+  font-size: 20px;
+  background-color : #fff089;
+}
+
+.cv{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 10px;
+}
+
+.btn{
+  color: #fff089;
+  background-color: #263662;
+  text-decoration: none;
+  padding: 6px 20px;
+  border-radius: 4px;
+  font-family: "roboto";
+  cursor: pointer;
+  font-size : 20px;
+  text-shadow: 0.2px 0.3px 0.5px #263662;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+
+.bloc-btn{
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 3px;
+}
+
+.gif{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+img{
+  width: 700px;
+  border-radius: 20px;
 }
