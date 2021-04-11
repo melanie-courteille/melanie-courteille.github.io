@@ -111,9 +111,9 @@ img:hover{
   text-decoration: none;
   padding: 6px 20px;
   border-radius: 4px;
-  font-family: "amatic SC";
+  font-family: "robotoC";
   cursor: pointer;
-  font-size : 23px;
+  font-size : 20px;
   text-shadow: 0.2px 0.3px 0.5px #263662;
   display: flex;
   flex-wrap: wrap;
