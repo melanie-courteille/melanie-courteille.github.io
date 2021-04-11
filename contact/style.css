@@ -39,7 +39,7 @@ body{
   text-shadow: 0.2px 0.3px 0.5px #263662;
   display: flex;
   flex-wrap: wrap;
-  margin: 5px;
+  margin: 0px;
 }
 
 .bloc-btn{
