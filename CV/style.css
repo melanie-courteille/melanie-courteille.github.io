@@ -25,6 +25,8 @@ body{
   justify-content: center;
   padding: 20px;
   margin: 10px;
+  width: 50%;
+  height: 300px;
 }
 
 .btn{
