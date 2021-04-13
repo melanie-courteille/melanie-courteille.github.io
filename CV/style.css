@@ -23,8 +23,7 @@ body{
 .cv{
   display: flex;
   justify-content: center;
-  padding: 20px;
-  margin: 10px;
+  margin: 5px;
   width: 400px;
 }
 
